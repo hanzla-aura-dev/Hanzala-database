@@ -13,8 +13,8 @@ def jbk_banner():
     print(f"{C}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print(f"{C}      JBK DARKWORKS - ADVANCED TOOLKIT       ")
     print(f"{C}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"{W}   [+] OWNER  : {G}SHAHZADA FAHAD")
-    print(f"{W}   [+] TEAM   : {R}JBK DARKWORKS")
+    print(f"{W}   [+] OWNER  : {G}HANZALA RAJPOOT")
+    print(f"{W}   [+] TEAM   : {R}HACKER OF UET  ")
     print(f"{W}   [+] STATUS : {Y}DATABASE ACCESS ACTIVE")
     print(f"{C}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{RESET}")
 
@@ -95,4 +95,5 @@ def main():
             sys.exit()
 
 if __name__ == "__main__":
+
     main()
